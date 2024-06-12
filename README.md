@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nikhilm45.github.io/](https://nikhilm45.github.io/)
 
-- 💬 Ask me about **Java, SpringBoot, ReactJs, JavaScript**
+- 💬 Ask me about **Java, SpringBoot, React.js, Angular, JavaScript, TypeScript**
 
 - 📫 How to reach me **marathen37@gmail.com**
 
