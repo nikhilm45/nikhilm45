@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilm45&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilm45" /> </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio App](https://nikhilportfolio-tawny.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio App](https://nikhil-dev-gamma.vercel.app/)
 
 - 💬 Ask me about **Java, SpringBoot, React.js, Angular, JavaScript, TypeScript**
 
